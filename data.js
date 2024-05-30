@@ -1,9 +1,9 @@
 const projectes = [
     {
-        titl: "Primer Projecte",
-        description: "Projecte de prova 1",
-        link: "http://google.com",
-        img:"ajuntament.jpg",
+        titl: "SpaceX-rockets",
+        description: "Connexió a API pública",
+        link: "https://spacex-rockets.llfor-develop.com/",
+	img:"spacex-rockets.jpg"
         targets: ["HTML","CSS"]
     },
     {        
