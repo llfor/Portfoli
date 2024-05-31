@@ -3,7 +3,7 @@ const projectes = [
         titl: "SpaceX-rockets",
         description: "Connexió a API pública",
         link: "https://spacex-rockets.llfor-develop.com/",
-	img:"spacex-rockets.jpg"
+	img:"spacex-rockets.jpg",
         targets: ["HTML","CSS"]
     },
     {        
