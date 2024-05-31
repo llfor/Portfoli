@@ -6,68 +6,19 @@ const projectes = [
 	img:"spacex-rockets.jpg",
         targets: ["HTML","CSS"]
     },
-    {        
-        titl: "Segon Projecte",
-        description: "Projecte de classificació de trames",
-        link: "http://google.com",
-        img:"menorca.jpg",
-        targets: ["HTML","JAVA"]
-    },
     {
-        titl: "Primer Projecte",
-        description: "Projecte de prova 1",
-        link: "http://google.com",
-        img:"menorca2.jpg",
-        targets: ["HTML","CSS"]
-    },
-    {        
-        titl: "Segon Projecte",
-        description: "Projecte de classificació de trames",
-        link: "http://google.com",
-        img:"ajuntament2.jpg",
-        targets: ["HTML","JAVA"]
-    },
-    {
-        titl: "Primer Projecte",
-        description: "Projecte de prova 1",
-        link: "http://google.com",
-        img:"ajuntament.jpg",
-        targets: ["HTML","CSS"]
-    },
-    {        
-        titl: "Segon Projecte",
-        description: "Projecte de classificació de trames",
-        link: "http://google.com",
-        img:"",
-        targets: ["HTML","JAVA"]
-    },
-    {
-        titl: "Primer Projecte",
-        description: "Projecte de prova 1",
-        link: "http://google.com",
-        img:"",
-        targets: ["HTML","CSS"]
-    },
-    {        
-        titl: "Segon Projecte",
-        description: "Projecte de classificació de trames",
-        link: "http://google.com",
-        img:"",
-        targets: ["HTML","JAVA"]
-    },
-    {
-        titl: "Primer Projecte",
-        description: "Projecte de prova 1",
-        link: "http://google.com",
-        img:"",
+        titl: "Tres en ratlla",
+        description: "Joc de taula",
+        link: "https://spacex-rockets.llfor-develop.com/",
+	    img:"Tic_tac_toe.svg.png",
         targets: ["HTML","CSS"]
     }
-    
+
 ];
 
 const personalInformation = {
     name: "Llorenç",
-    subtitle: "Docent",
+    subtitle: "Web developer",
     image: "img/ca.jpeg",
     others:[
         ["Lloc de naixement", "Menorca"],
@@ -84,7 +35,7 @@ const personalInformation = {
     ],["Node",6],["C#",6]
     ],
     socialNetworks:[
-        ["github", "https://github.com/"],
+        ["github", "https://github.com/llfor"],
         ["linkedin", "https://www.linkedin.com/"],
         ["youtube", "https://www.youtube.com/"],
         ["instagram", ""]
