@@ -9,7 +9,7 @@ const projectes = [
     {
         titl: "Tres en ratlla",
         description: "Joc de taula",
-        link: "https://spacex-rockets.llfor-develop.com/",
+        link: "https://tres-en-ratlla.llfor-develop.com/",
 	    img:"Tic_tac_toe.svg.png",
         targets: ["HTML","CSS"]
     }
