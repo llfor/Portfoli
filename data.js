@@ -12,7 +12,14 @@ const projectes = [
         link: "https://tres-en-ratlla.llfor-develop.com/",
 	    img:"Tic_tac_toe.svg.png",
         targets: ["HTML","CSS"]
-    }
+    },
+    {
+        titl: "Ciències Naturals ESPA",
+        description: "Materials didàctics",
+        link: "https://whitesmoke-moose-121575.hostingersite.com/",
+	    img:"menorca.jpg",
+        targets: ["Wordpress"]
+    },
 
 ];
 
